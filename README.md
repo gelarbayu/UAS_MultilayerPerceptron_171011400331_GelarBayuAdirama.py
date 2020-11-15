@@ -1,0 +1,2 @@
+# UAS_MultilayerPerceptron_171011400331_GelarBayuAdirama.py
+projek gelarbayuadirama
